@@ -32,7 +32,7 @@ git clone https://github.com/yourusername/helioseismology-project.git
 pip install -r requirements.txt
 ```
 
-3. You will need to have py_mesa_reader to run parts of the code. Check py_mesa_reader [here](https://github.com/wmwolf/py_mesa_reader) for instructions on how to install it.
+3. You will need to have py_mesa_reader to run parts of the code. Check `py_mesa_reader` [here](https://github.com/wmwolf/py_mesa_reader) for instructions on how to install it.
 
 ## Usage
 To run the code and analyze the Sun's oscillation data, simply run the provided jupyter notebooks.
