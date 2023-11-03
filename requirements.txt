@@ -1,10 +1,5 @@
 numpy
 matplotlib
-astropy
-photutils
-astroplan
 ipykernel
 scipy
-requests
-astroalign
-astroquery
+pandas
