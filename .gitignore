@@ -40,6 +40,6 @@ Thumbs.db
 ################
 *.ini
 
-# ./Part1/py_mesa_reader #
+# "py_mesa_reader" #
 ##########################
-./Part1/py_mesa_reader
+**/py_mesa_reader/
